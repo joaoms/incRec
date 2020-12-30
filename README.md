@@ -3,7 +3,7 @@
 
 # incRec
 
-This repository hosts the **Software library on stream based recommender systems**. This is part of my thesis dissertation done at
+This repository hosts the **Software library on stream based recommender systems**. It is fork of @Marko50's dissertation done at
 the **Faculty of Engineering of the University of Porto**.
 
 ## General Overview
